@@ -1,4 +1,4 @@
-# csci-241-ch03-4
+# csci-241-ch04-1
 Play_Values_In_Array
 
 Write an ASM program to play with four DWORD values in an array using less instructions. Your program should show the following outputs as before and after:
